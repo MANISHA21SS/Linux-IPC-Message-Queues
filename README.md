@@ -20,8 +20,8 @@ Execute the C Program for the desired output.
 
 # PROGRAM:
 ```
-DEVELOPED BY:N.NAVYA SREE
-REG.NO:212223040138
+DEVELOPED BY:S.S.Manisha selvakumari
+REG.NO:212223220055
 ```
 
 ## C program that receives a message from message queue and display them
